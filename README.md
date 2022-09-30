@@ -4,3 +4,9 @@
 
 **Activity 2**
 ![](screenshots/act2.png)
+**Activity 3**
+![](screenshots/act3.png)
+**Activity 4**
+![](screenshots/act4_1.png)
+![](screenshots/act4_2.png)
+
